@@ -4,4 +4,4 @@ include_recipe "build-essential"
 include_recipe "ruby_build"
 include_recipe "rbenv::system"
 
-rbenv_global "2.0.0-p0"
+rbenv_global "2.0.0-p353"

@@ -1,7 +1,7 @@
-set['rbenv']['rubies'] = [ "2.0.0-p0" ]
+set['rbenv']['rubies'] = [ "2.0.0-p353" ]
 
 set['rbenv']['gems'] = {
-  '2.0.0-p0' => [
+  '2.0.0-p353' => [
     { 'name'    => 'bundler' }
   ]  
 }
