@@ -29,7 +29,7 @@ ssh into the vm
 vim huboard/.env
 configure the two missing keys
 
-GITHUB_CLIENT_ID=<yours>
+GITHUB_CLIENT_ID=<yours>    
 GITHUB_SECRET=<yours>
 
 ## Start up the huboard web application
